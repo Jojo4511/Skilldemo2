@@ -7,6 +7,6 @@ public class SkillTest
   public void greetingTest()
   {
       Skill skill = new Skill("Johannes");
-      assertEquals("Why hello Onat", skill.Greeting());
+      assertEquals("Why hello Johannes", skill.Greeting());
   }
 }
